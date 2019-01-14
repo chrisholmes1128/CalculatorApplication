@@ -1,0 +1,18 @@
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\bin\Debug\Calculator_App.pdb
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csprojResolveAssemblyReference.cache
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\obj\Debug\Calculator_App.Form1.resources
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.Cache
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\obj\Debug\Calculator_App.exe
+C:\Users\chrisholmes\source\repos\Calculator_App\Calculator_App\obj\Debug\Calculator_App.pdb
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\bin\Debug\Calculator_App.exe
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\bin\Debug\Calculator_App.pdb
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\obj\Debug\Calculator_App.csprojResolveAssemblyReference.cache
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\obj\Debug\Calculator_App.Form1.resources
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.Cache
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\obj\Debug\Calculator_App.exe
+C:\Users\chrisholmes\OneDrive - SNHU\CS-114\Session2_Holmes\Calculator_App Plus\Calculator_App\obj\Debug\Calculator_App.pdb
